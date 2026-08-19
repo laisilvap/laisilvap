@@ -1,9 +1,8 @@
-## Hi there 👋
+## Olá 👋
 
-- 🎓 I'm studying Computer and Information Systems at UFV
-- 🔭 I’m currently working in the audiovisual and administrative area at my university
-- 🌱 I’m currently learning English
-- 💻 Learning and practicing: C, C++ and Java
-- I'm currently pursuing a degree in Information Systems, a program that combines software development with business and entrepreneurship concepts.
-- Through my studies, I have been building a strong foundation in programming, logic, data structures and core computing subjects.
+- Estou cursando Sistemas de Informação na UFV
+- Já estagiei na UFV com demandas administrativas e audiovisuais
+- Atualmente estou melhorando meu Inglês
+- Estudando e programando em Java e C.
+- Durante meus estudos, aprendi lógica, programação, estrutura de dados, computação orientada a objetos..
 
